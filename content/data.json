@@ -37,10 +37,12 @@
       "slug": "embtest",
       "title": "Web player emb test",
       "date": "2026-11-19",
-      "categoryIds": [],
+      "categoryIds": [
+        "cat-1795093919305"
+      ],
       "excerpt": "",
       "cover": "",
-      "content": "\n{{player:https://www.bilibili.com/video/BV1sDn368E1E/}}\n\n{{player:https://www.youtube.com/watch?v=jGSIfooCdb8&list=RDjGSIfooCdb8&start_radio=1}}\n"
+      "content": "{{player:https://www.bilibili.com/video/BV1sDn368E1E/}}\n\n{{player:https://www.youtube.com/watch?v=jGSIfooCdb8&list=RDjGSIfooCdb8&start_radio=1}}\n"
     }
   ]
 }
